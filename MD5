@@ -1,0 +1,6 @@
+c9cc9b9d8527601fad87f20a1877598d *DESCRIPTION
+75e1ff61ee8d08f680a2ac78cb27fdc9 *NAMESPACE
+3008bd06e59ee076eff87e1aa2bb1bec *R/export.R
+9784703822fd20cbc477716b7e79ac2c *man/attachEdgeAtt.Rd
+2f88c5498402678dbde992b190ca181a *man/attachVertexAtt.Rd
+c38153ef1664aeb006d2b9f9bc2dbe08 *man/write.graph.to.sonia.Rd
